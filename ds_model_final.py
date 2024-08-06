@@ -122,7 +122,7 @@ param_grid = {
     'classifier__n_estimators': [500,1000],
     'classifier__max_depth': [3,5],
     'classifier__learning_rate': [0.005,0.2],
-    'classifier__scale_pos_weight': [8,10],
+    'classifier__scale_pos_weight': [10,12],
     'verbose' : [1]
 }
 
